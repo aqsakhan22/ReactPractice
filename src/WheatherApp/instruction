@@ -1,0 +1,8 @@
+https://home.openweathermap.org/
+http://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${API_KEY}&units=metric
+ API_KEY="454fb23f3ba36d8809ebfd3eba8dcadf"
+
+ To download bootstrap
+ npm install bootstrap@3.3.7 --save
+ import 'bootstrap/dist/css/bootstrap.min.css';
+ jitni bhi css file hugi wo main indesx,js may hugi import
