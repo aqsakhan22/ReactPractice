@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/aqsakhan22/ReactPractice/static/css/main.aec8536f.chunk.css",
+    "main.js": "/aqsakhan22/ReactPractice/static/js/main.a9c3b60e.chunk.js",
+    "main.js.map": "/aqsakhan22/ReactPractice/static/js/main.a9c3b60e.chunk.js.map",
+    "runtime-main.js": "/aqsakhan22/ReactPractice/static/js/runtime-main.82de2462.js",
+    "runtime-main.js.map": "/aqsakhan22/ReactPractice/static/js/runtime-main.82de2462.js.map",
+    "static/css/2.0514be00.chunk.css": "/aqsakhan22/ReactPractice/static/css/2.0514be00.chunk.css",
+    "static/js/2.5d22ace0.chunk.js": "/aqsakhan22/ReactPractice/static/js/2.5d22ace0.chunk.js",
+    "static/js/2.5d22ace0.chunk.js.map": "/aqsakhan22/ReactPractice/static/js/2.5d22ace0.chunk.js.map",
+    "index.html": "/aqsakhan22/ReactPractice/index.html",
+    "precache-manifest.9b4fb11a3fc0c6972742b99f1291ef4b.js": "/aqsakhan22/ReactPractice/precache-manifest.9b4fb11a3fc0c6972742b99f1291ef4b.js",
+    "service-worker.js": "/aqsakhan22/ReactPractice/service-worker.js",
+    "static/css/2.0514be00.chunk.css.map": "/aqsakhan22/ReactPractice/static/css/2.0514be00.chunk.css.map",
+    "static/css/main.aec8536f.chunk.css.map": "/aqsakhan22/ReactPractice/static/css/main.aec8536f.chunk.css.map",
+    "static/js/2.5d22ace0.chunk.js.LICENSE.txt": "/aqsakhan22/ReactPractice/static/js/2.5d22ace0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/aqsakhan22/ReactPractice/static/media/bg.b6796c73.jpg",
+    "static/media/bootstrap.min.css": "/aqsakhan22/ReactPractice/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82de2462.js",
+    "static/css/2.0514be00.chunk.css",
+    "static/js/2.5d22ace0.chunk.js",
+    "static/css/main.aec8536f.chunk.css",
+    "static/js/main.a9c3b60e.chunk.js"
+  ]
+}
